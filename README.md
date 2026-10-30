@@ -5,7 +5,7 @@ Corporate website and content platform for **Grupo Leti**, a pharmaceutical grou
 
 > The source code is private (client project). This repository is a case study.
 
-![Grupo Leti home page](home.jpg)
+![Grupo Leti home page](home.webp)
 
 ## My role
 
@@ -19,9 +19,9 @@ Full-stack development (front-end and API) and design improvements.
 - Careers flow with CV uploads, scanned for malware (ClamAV) on the API before storage
 - Bilingual site (ES / EN)
 
-![Product catalog](products.jpg)
+![Product catalog](products.webp)
 
-![Product search and careers section](search-careers.jpg)
+![Product search and careers section](search-careers.webp)
 
 ## Stack
 
