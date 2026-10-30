@@ -14,14 +14,18 @@ Full-stack development (front-end and API) and design improvements.
 ## Highlights
 
 - **Three-layer design token system** in SCSS (primitive → semantic → component), fully documented, so spacing, typography and radii stay consistent across every component
-- Product catalog with carousel and search by product name or condition
-- Admin panel to edit site content
+- Product catalog with detail pages and search by product name or condition
+- Admin panel to edit site content, including landing pages
 - Careers flow with CV uploads, scanned for malware (ClamAV) on the API before storage
 - Bilingual site (ES / EN)
 
-![Product catalog](products.webp)
+### Product detail page
 
-![Product search and careers section](search-careers.webp)
+![Product detail page](product.webp)
+
+### Admin panel
+
+![Admin panel for landing pages](admin.webp)
 
 ## Stack
 
